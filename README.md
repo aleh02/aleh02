@@ -2,17 +2,17 @@
 
 ### Computer Science Student @Università di Pisa, Italy
 
-i'm a computer engineering student passionate about building practical, efficient and scalable software systems.
+I'm a computer science student passionate about building practical, efficient and scalable software systems.
 
 - 📍 based in Livorno, Italy  
 - 🎓 bachelor degree in computer science @Unipi  
 - 🧠 interested in AI, operating systems, cloud computing, distributed systems, embedded devices  
-- 💻 love working on system programming, backend development & low-level projects  
+- 💻 love working on system programming & backend development 
 - 📧 reach me on linkedin or instagram below!
 
 ---
 
-### 🛠️ Skills  
+## 🛠️ Skills  
 
 <a href="https://www.java.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=java" width="40" style="filter:none;"/>
@@ -63,11 +63,11 @@ i'm a computer engineering student passionate about building practical, efficien
 ## 🌐 Socials
 
 <a href="https://www.linkedin.com/in/alessandro-han-b87391223/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="filter:none;"/>
 </a>
 
 <a href="https://www.instagram.com/ale.h4n" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/>
 </a>
 
 ---
