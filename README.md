@@ -57,7 +57,7 @@ i'm a computer engineering student passionate about building practical, efficien
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
+   <img src="https://skillicons.dev/icons?i=aws" width="50" style="filter:none;"/>
 </a>
 
 ---
