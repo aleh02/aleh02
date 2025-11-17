@@ -65,7 +65,7 @@ i'm a computer engineering student passionate about building practical, efficien
 </a>
 
 <a href="https://www.instagram.com/ale.h4n" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="45"/>
 </a>
 
 ---
