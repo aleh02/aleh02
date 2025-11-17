@@ -1,12 +1,10 @@
-## Hi there 👋
-
 # Hi! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="40"/> my name is Alessandro Han
 
 ### Computer Science Student @Università di Pisa, Italy
 
 i'm a computer engineering student passionate about building practical, efficient and scalable software systems.
 
-- 📍 based in Pisa, Italy  
+- 📍 based in Livorno, Italy  
 - 🎓 bachelor degree in computer science @Unipi  
 - 🧠 interested in AI, operating systems, cloud computing, distributed systems, embedded devices  
 - 💻 love working on system programming, backend development & low-level projects  
