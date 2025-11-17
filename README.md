@@ -29,7 +29,7 @@ i'm a computer engineering student passionate about building practical, efficien
 </a>
 
 <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Oracle-Dark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
