@@ -12,16 +12,14 @@ i'm a computer engineering student passionate about building practical, efficien
 
 ---
 
-## 🛠️ Skills  
-
-### **Programming Languages**
+### Skills  
 
 <a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=java" width="30" style="filter:none;"/>
 </a>
 
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" width="50" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=c" width="30" style="filter:none;"/>
 </a>
 
 <a href="https://www.python.org" target="_blank">
