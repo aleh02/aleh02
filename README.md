@@ -6,7 +6,7 @@ I'm a computer science student passionate about building practical, efficient an
 
 - 📍 Based in Livorno, Italy  
 - 🎓 Bachelor degree in computer science @Unipi  
-- 🧠 Interested in AI, operating systems, cloud computing, distributed systems, embedded devices  
+- 🧠 Interested in operating systems, programming languages, algorithms, and software engineering.  
 - 💻 Love working on system programming & backend development 
 - 📧 Reach me on Linkedin or Instagram below!
 
