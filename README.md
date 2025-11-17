@@ -53,7 +53,7 @@ i'm a computer engineering student passionate about building practical, efficien
 </a>
 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/matlab.svg" width="50" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=matlab" width="50" style="filter:none;"/>
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank">
