@@ -12,50 +12,50 @@ i'm a computer engineering student passionate about building practical, efficien
 
 ---
 
-### Skills  
+### 🛠️ Skills  
 
 <a href="https://www.java.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" width="30" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40" style="filter:none;"/>
 </a>
 
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" width="30" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=c" width="40" style="filter:none;"/>
 </a>
 
 <a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=py" width="40" style="filter:none;"/>
 </a>
 
 <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" style="filter:none;"/>
 </a>
 
 <a href="https://www.typescriptlang.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40" style="filter:none;"/>
 </a>
 
 <a href="https://ocaml.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ocaml" width="40" style="filter:none;"/>
 </a>
 
 <a href="https://www.arduino.cc" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
 </a>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="40" style="filter:none;"/>
 </a>
 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=matlab" width="50" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=matlab" width="40" style="filter:none;"/>
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank">
-   <img src="https://skillicons.dev/icons?i=aws" width="50" style="filter:none;"/>
+   <img src="https://skillicons.dev/icons?i=aws" width="40" style="filter:none;"/>
 </a>
 
 ---
