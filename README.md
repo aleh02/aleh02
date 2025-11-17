@@ -21,7 +21,7 @@ i'm a computer engineering student passionate about building practical, efficien
 </a>
 
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=c" width="50" style="filter:none;"/>
 </a>
 
 <a href="https://www.python.org" target="_blank">
@@ -65,7 +65,7 @@ i'm a computer engineering student passionate about building practical, efficien
 ## 🌐 Socials
 
 <a href="https://www.linkedin.com/in/alessandro-han-b87391223/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="55"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" style="filter:none;"/>
 </a>
 
 <a href="https://www.instagram.com/ale.h4n" target="_blank">
