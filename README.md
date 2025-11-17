@@ -49,7 +49,7 @@ i'm a computer engineering student passionate about building practical, efficien
 ### **Modeling & Hardware**
 
 <a href="https://www.uml.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/UML.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/uml/uml-original.svg" width="50"/>
 </a>
 
 <a href="https://www.arduino.cc" target="_blank">
@@ -65,7 +65,7 @@ i'm a computer engineering student passionate about building practical, efficien
 </a>
 
 <a href="https://www.instagram.com/ale.h4n" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" width="50"/>
 </a>
 
 ---
