@@ -8,7 +8,7 @@ I'm a computer science student passionate about building practical, efficient an
 - 🎓 Bachelor degree in computer science @Unipi  
 - 🧠 Interested in AI, operating systems, cloud computing, distributed systems, embedded devices  
 - 💻 Love working on system programming & backend development 
-- 📧 Reach me on linkedin or instagram below!
+- 📧 Reach me on Linkedin or Instagram below!
 
 ---
 
@@ -22,10 +22,6 @@ I'm a computer science student passionate about building practical, efficient an
   <img src="https://skillicons.dev/icons?i=c" width="40" style="filter:none;"/>
 </a>
 
-<a href="https://www.python.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=py" width="40" style="filter:none;"/>
-</a>
-
 <a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
 </a>
@@ -36,6 +32,10 @@ I'm a computer science student passionate about building practical, efficient an
 
 <a href="https://www.typescriptlang.org" target="_blank">
   <img src="https://skillicons.dev/icons?i=ts" width="40" style="filter:none;"/>
+</a>
+
+<a href="https://www.python.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=py" width="40" style="filter:none;"/>
 </a>
 
 <a href="https://ocaml.org" target="_blank">
