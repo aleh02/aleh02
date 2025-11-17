@@ -44,16 +44,20 @@ i'm a computer engineering student passionate about building practical, efficien
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" width="50"/>
 </a>
 
----
-
-### **Modeling & Hardware**
-
-<a href="https://www.uml.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/UML-Light.svg" width="50"/>
-</a>
-
 <a href="https://www.arduino.cc" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="50"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50"/>
+</a>
+
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/matlab.svg" width="50" style="filter:none;"/>
+</a>
+
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
 </a>
 
 ---
