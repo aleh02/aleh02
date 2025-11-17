@@ -4,11 +4,11 @@
 
 I'm a computer science student passionate about building practical, efficient and scalable software systems.
 
-- 📍 based in Livorno, Italy  
-- 🎓 bachelor degree in computer science @Unipi  
-- 🧠 interested in AI, operating systems, cloud computing, distributed systems, embedded devices  
-- 💻 love working on system programming & backend development 
-- 📧 reach me on linkedin or instagram below!
+- 📍 Based in Livorno, Italy  
+- 🎓 Bachelor degree in computer science @Unipi  
+- 🧠 Interested in AI, operating systems, cloud computing, distributed systems, embedded devices  
+- 💻 Love working on system programming & backend development 
+- 📧 Reach me on linkedin or instagram below!
 
 ---
 
@@ -42,16 +42,16 @@ I'm a computer science student passionate about building practical, efficient an
   <img src="https://skillicons.dev/icons?i=ocaml" width="40" style="filter:none;"/>
 </a>
 
-<a href="https://www.arduino.cc" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
-</a>
-
 <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://skillicons.dev/icons?i=bash" width="40" style="filter:none;"/>
 </a>
 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
   <img src="https://skillicons.dev/icons?i=matlab" width="40" style="filter:none;"/>
+</a>
+
+<a href="https://www.arduino.cc" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
 </a>
 
 <a href="https://aws.amazon.com/" target="_blank">
