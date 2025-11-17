@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-# hi! 👋 my name is Alessandro Han
+# Hi! 👋 my name is Alessandro Han
 
-### computer engineering student @Università di Pisa, Italy
+### Computer Science Student @Università di Pisa, Italy
 
 i'm a computer engineering student passionate about building practical, efficient and scalable software systems.
 
 - 📍 based in Pisa, Italy  
-- 🎓 bachelor degree in computer engineering @Unipi  
+- 🎓 bachelor degree in computer science @Unipi  
 - 🧠 interested in AI, operating systems, cloud computing, distributed systems, embedded devices  
 - 💻 love working on system programming, backend development & low-level projects  
 - 📧 reach me on linkedin or instagram below!
@@ -30,8 +30,8 @@ i'm a computer engineering student passionate about building practical, efficien
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
 </a>
 
-<a href="https://www.w3schools.com/sql/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
+<a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Oracle-Dark.svg" width="50"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
