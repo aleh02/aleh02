@@ -62,7 +62,7 @@ I'm a computer science student passionate about building practical, efficient an
 
 ## 🌐 Socials
 
-<a href="https://www.linkedin.com/in/alessandro-han-b87391223/" target="_blank">
+<a href="https://www.linkedin.com/in/aleh02/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="filter:none;"/>
 </a>
 
