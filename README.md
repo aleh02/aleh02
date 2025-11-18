@@ -1,6 +1,6 @@
 # Hi! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="40"/> my name is Alessandro Han
 
-### Computer Science Student @Università di Pisa, Italy
+### Computer Science Student @ Università di Pisa, Italy
 
 I'm a computer science student passionate about building practical, efficient and scalable software systems.
 
