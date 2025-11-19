@@ -5,7 +5,7 @@
 I'm a computer science student passionate about building practical, efficient and scalable software systems.
 
 - 📍 Based in Livorno, Italy  
-- 🎓 Bachelor degree in Computer Science @Unipi  
+- 🎓 BSc Computer Science @ Unipi  
 - 🧠 Interested in Software Engineering, Backend Architecture, and Artificial Intelligence 
 - 💻 Developing my skills across different layers of software 
 - 📧 Reach me on Linkedin or Instagram below!
