@@ -53,11 +53,11 @@ I'm a computer science student passionate about building practical, efficient an
 <a href="https://www.arduino.cc" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
 </a>
-
+<!--
 <a href="https://aws.amazon.com/" target="_blank">
    <img src="https://skillicons.dev/icons?i=aws" width="40" style="filter:none;"/>
 </a>
-
+-->
 ---
 
 ## 🌐 Socials
