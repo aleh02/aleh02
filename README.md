@@ -6,7 +6,7 @@ I'm a computer science student passionate about building practical, efficient an
 
 - 📍 Based in Livorno, Italy  
 - 🎓 Bachelor degree in Computer Science @Unipi  
-- 🧠 Interested in full-stack development, backend architecture, and modern software technologies 
+- 🧠 Interested in full-stack development, backend architecture, and AI 
 - 💻 Developing my skills across different layers of software 
 - 📧 Reach me on Linkedin or Instagram below!
 
