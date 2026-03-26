@@ -79,21 +79,6 @@ I’m currently developing my skills through academic projects and hands-on expe
 </a>
 -->
 
-
----
-
-## 🚀 Featured Project
-
-### Expense Tracker
-A full-stack web application for tracking personal expenses, built with **React, TypeScript, Firebase, and Express**.
-
-Main features include:
-- user authentication
-- cloud data persistence
-- budgeting and expense categorization
-- multi-currency support
-- push notification support
-
 ---
 
 ## 🌐 Socials
