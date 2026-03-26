@@ -1,57 +1,76 @@
-# Hi! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="40"/> my name is Alessandro Han
+# Hi! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="40"/> I'm Alessandro Han
 
-### Computer Science Student @ Università di Pisa, Italy
+### Computer Science Student @ University of Pisa, Italy
 
-I'm a computer science student passionate about building practical, efficient and scalable software systems.
+I'm a Computer Science student passionate about building practical, efficient, and reliable software systems.
+
+I’m currently developing my skills through academic projects and hands-on experience in backend and full-stack development, with a strong interest in software engineering, backend architecture, and artificial intelligence.
 
 - 📍 Based in Livorno, Italy  
-- 🎓 BSc Computer Science @ Unipi  
-- 🧠 Interested in Software Engineering, Backend Architecture, and Artificial Intelligence 
-- 💻 Developing my skills across different layers of software 
-- 📧 Reach me on Linkedin or Instagram below!
+- 🎓 BSc in Computer Science @ University of Pisa  
+- 💼 Backend Developer Intern @ NTT DATA  
+- 🧠 Interested in Software Engineering, Backend Systems, and AI  
+- 💻 Working with Java, Spring Boot, SQL, React, TypeScript, Firebase, and Express  
+- 📫 Reach me on LinkedIn or Instagram below!
 
 ---
 
-## 🛠️ Skills  
+## 🛠️ Tech Stack  
 
 <a href="https://www.java.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=java" width="40" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40" />
 </a>
 
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" width="40" style="filter:none;"/>
-</a>
-
-<a href="https://www.oracle.com/database/technologies/appdev/sql.html" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=c" width="40" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js" width="40" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40" />
 </a>
 
 <a href="https://www.typescriptlang.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ts" width="40" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40" />
 </a>
 
 <a href="https://www.python.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=py" width="40" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=py" width="40" />
 </a>
 
-<a href="https://www.arduino.cc" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40"/>
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img src="https://skillicons.dev/icons?i=spring" width="40" />
+</a>
+
+<a href="https://react.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" width="40" />
+</a>
+
+<a href="https://expressjs.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" width="40" />
+</a>
+
+<a href="https://firebase.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=firebase" width="40" />
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" />
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" width="40" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=bash" width="40" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="40" />
 </a>
 
-<a href="https://ocaml.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ocaml" width="40" style="filter:none;"/>
-</a>
-
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img src="https://skillicons.dev/icons?i=matlab" width="40" style="filter:none;"/>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" width="40" />
 </a>
 
 <!--
@@ -60,22 +79,36 @@ I'm a computer science student passionate about building practical, efficient an
 </a>
 -->
 
+
+---
+
+## 🚀 Featured Project
+
+### Expense Tracker
+A full-stack web application for tracking personal expenses, built with **React, TypeScript, Firebase, and Express**.
+
+Main features include:
+- user authentication
+- cloud data persistence
+- budgeting and expense categorization
+- multi-currency support
+- push notification support
+
 ---
 
 ## 🌐 Socials
 
 <a href="https://www.linkedin.com/in/aleh02/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="filter:none;"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
 
 <a href="https://www.instagram.com/ale.h4n" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="40" />
 </a>
 
 ---
 
 Thanks for visiting my profile! 🚀
-
 
 <!--
 **aleh02/aleh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
