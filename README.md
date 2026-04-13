@@ -1,17 +1,19 @@
 # Hi! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="40"/> I'm Alessandro Han
 
-### Computer Science Student @ University of Pisa, Italy
+### BSc Computer Science @ University of Pisa | Backend & Full-Stack Developer
 
-I'm a Computer Science student passionate about building practical, efficient, and reliable software systems.
+I'm a Computer Science graduate passionate about building practical, efficient, and reliable software systems.
 
-I’m currently developing my skills through academic projects and hands-on experience in backend and full-stack development, with a strong interest in software engineering, backend architecture, and artificial intelligence.
+I have hands-on experience in backend and full-stack development through academic projects and my internship at NTT DATA, where I worked on Java Spring Boot services in a microservices-based enterprise environment.
+
+I'm particularly interested in software engineering, backend architecture, distributed systems, and artificial intelligence.
 
 - 📍 Based in Livorno, Italy  
 - 🎓 BSc in Computer Science @ University of Pisa  
-- 💼 Backend Developer Intern @ NTT DATA  
-- 🧠 Interested in Software Engineering, Backend Systems, and AI  
+- 💼 Backend Software Engineer @ NTT DATA  
+- 🧠 Interested in Software Engineering, Backend Systems, Distributed Systems, and AI  
 - 💻 Working with Java, Spring Boot, SQL, React, TypeScript, Firebase, and Express  
-- 📫 Reach me on LinkedIn or Instagram below!
+- 📫 Reach me on LinkedIn
 
 ---
 
